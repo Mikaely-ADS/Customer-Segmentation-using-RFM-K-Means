@@ -65,6 +65,7 @@ Análise dos Clusters
       ▼
 Insights de Negócio
 Análise Exploratória
+
 Durante a etapa de exploração foram realizadas:
 
 Identificação de valores nulos
@@ -75,6 +76,7 @@ Análise de outliers
 Winsorização das variáveis
 Estatísticas descritivas
 Engenharia de Atributos
+
 Foram construídas três métricas fundamentais para segmentação:
 
 Recency
@@ -87,6 +89,7 @@ Monetary
 Valor total gasto pelo cliente.
 
 Pré-processamento
+
 Antes do treinamento foram aplicadas:
 
 Transformação Log (log1p)
@@ -146,6 +149,8 @@ customer-segmentation-rfm-kmeans/
 ├── images/
 ├── docs/
 │   └── documentacao_profissional_desafio7.pdf
+
+
 Competências Demonstradas
 Data Cleaning
 Exploratory Data Analysis (EDA)
@@ -163,7 +168,3 @@ Autor: Mikaely Alves Dias
 LinkedIn: https://www.linkedin.com/in/mikaely-alves-745426218/
 
 GitHub: https://github.com/Mikaely-ADS
-
-
-      │
-  
